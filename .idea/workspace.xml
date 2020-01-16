@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe25151c-9bdd-470d-8572-07ce4aae3a5b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hod/behavioral/interpreter/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hod/behavioral/interpreter/Context.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hod/behavioral/memento/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hod/behavioral/memento/Client.java" afterDir="false" />
-    </list>
+    <list default="true" id="fe25151c-9bdd-470d-8572-07ce4aae3a5b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,36 +15,39 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/hod/behavioral/state/MobileAlertState.java">
+        <entry file="file://$PROJECT_DIR$/src/com/hod/behavioral/strategy/Strategy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/hod/behavioral/state/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            <state relative-caret-position="459">
+              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+              <folding>
+                <element signature="e#267#268#0" expanded="true" />
+                <element signature="e#299#300#0" expanded="true" />
+                <element signature="e#454#455#0" expanded="true" />
+                <element signature="e#533#534#0" expanded="true" />
+                <element signature="e#638#639#0" expanded="true" />
+                <element signature="e#669#670#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/hod/behavioral/state/AlertStateContext.java">
+        <entry file="file://$PROJECT_DIR$/src/com/hod/behavioral/strategy/Context.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+            <state relative-caret-position="85">
+              <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
               <folding>
-                <element signature="e#177#178#0" expanded="true" />
-                <element signature="e#214#215#0" expanded="true" />
-                <element signature="e#194#195#0" expanded="true" />
-                <element signature="e#228#229#0" expanded="true" />
-                <element signature="e#258#259#0" expanded="true" />
-                <element signature="e#278#279#0" expanded="true" />
+                <element signature="e#145#146#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/hod/behavioral/strategy/StrategyPatternDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -77,10 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/hod/creational/builder/Meal.java" />
-        <option value="$PROJECT_DIR$/src/com/hod/creational/prototype/BasicCar.java" />
-        <option value="$PROJECT_DIR$/src/com/hod/creational/prototype/Client.java" />
-        <option value="$PROJECT_DIR$/src/com/hod/creational/prototype/PrototypePatternEx.java" />
         <option value="$PROJECT_DIR$/src/com/hod/structural/MediaPlayer.java" />
         <option value="$PROJECT_DIR$/src/com/hod/structural/adapter/AdapterPatternDemo.java" />
         <option value="$PROJECT_DIR$/src/com/hod/structural/adapter/MediaPlayer.java" />
@@ -128,13 +123,17 @@
         <option value="$PROJECT_DIR$/src/com/hod/behavioral/state/Context.java" />
         <option value="$PROJECT_DIR$/src/com/hod/behavioral/state/AlertStateContext.java" />
         <option value="$PROJECT_DIR$/src/com/hod/behavioral/state/Client.java" />
+        <option value="$PROJECT_DIR$/src/com/hod/behavioral/strategy/ActionStrategy.java" />
+        <option value="$PROJECT_DIR$/src/com/hod/behavioral/strategy/Context.java" />
+        <option value="$PROJECT_DIR$/src/com/hod/behavioral/strategy/StrategyPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/hod/behavioral/strategy/Strategy.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="948" />
-    <option name="width" value="981" />
-    <option name="height" value="1032" />
+    <option name="x" value="949" />
+    <option name="width" value="980" />
+    <option name="height" value="1031" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -176,7 +175,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="hod" type="462c0819:PsiDirectoryNode" />
               <item name="behavioral" type="462c0819:PsiDirectoryNode" />
-              <item name="state" type="462c0819:PsiDirectoryNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -208,7 +207,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (2)">
+  <component name="RunManager" selected="Application.StrategyPatternDemo">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hod.behavioral.memento.Client" />
       <module name="DesignPatterns" />
@@ -249,19 +248,6 @@
       </method>
     </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hod.behavioral.iterator.Client" />
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hod.behavioral.iterator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hod.behavioral.state.Client" />
       <module name="DesignPatterns" />
       <extension name="coverage">
@@ -274,20 +260,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StrategyPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hod.behavioral.strategy.StrategyPatternDemo" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hod.behavioral.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Client" />
       <item itemvalue="Application.Client (3)" />
       <item itemvalue="Application.Client (1)" />
       <item itemvalue="Application.Client (4)" />
       <item itemvalue="Application.Client (2)" />
+      <item itemvalue="Application.StrategyPatternDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StrategyPatternDemo" />
         <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.Client (4)" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client (3)" />
-        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -313,15 +312,15 @@
       <workItem from="1578394349855" duration="9265000" />
       <workItem from="1578584314675" duration="2160000" />
       <workItem from="1578928336335" duration="27000" />
-      <workItem from="1579171943441" duration="2181000" />
+      <workItem from="1579171943441" duration="4973000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60158000" />
+    <option name="totallyTimeSpent" value="62950000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="632" y="0" width="654" height="688" extended-state="0" />
+    <frame x="633" y="0" width="653" height="687" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -330,7 +329,7 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Web" order="5" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="6" type="SLIDING" weight="0.3777403" />
+      <window_info content_ui="combo" id="Project" order="6" type="SLIDING" weight="0.37710437" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="0" type="SLIDING" weight="0.3285968" />
       <window_info anchor="bottom" id="Spring" order="1" weight="0.3285968" />
@@ -374,25 +373,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/hod/creational/abstractfactory/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hod/creational/builder/Packing.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/hod/creational/singleton/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hod/creational/builder/Item.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="884">
@@ -899,6 +879,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hod/behavioral/state/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hod/behavioral/state/AlertStateContext.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -914,10 +901,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hod/behavioral/state/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/com/hod/behavioral/strategy/Strategy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        <state relative-caret-position="459">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hod/behavioral/strategy/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding>
+            <element signature="e#145#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hod/behavioral/strategy/StrategyPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
         </state>
       </provider>
     </entry>
