@@ -1,6 +1,6 @@
 package com.hod.behavioral.interpreter;
 
-//Context
+//AlertStateContext
 public class Context {
     String input;
 
